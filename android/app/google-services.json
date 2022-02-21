@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356347652908",
+    "project_id": "eduexpo-5dd31",
+    "storage_bucket": "eduexpo-5dd31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356347652908:android:258e3adf4b7f244ef21a89",
+        "android_client_info": {
+          "package_name": "com.example.edu_expo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356347652908-nd4uq2s3kes9stnjuvdpm1o653notfmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUV832jgkIe84bYs3P5LUzDLMSbGUFBPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356347652908-nd4uq2s3kes9stnjuvdpm1o653notfmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
